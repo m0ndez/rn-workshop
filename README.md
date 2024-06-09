@@ -13,3 +13,8 @@ yarn && yarn ios
 ```bash
 yarn test
 ```
+
+### Preview
+
+https://github.com/m0ndez/rn-workshop/assets/49247689/ed00443f-df46-465a-86b9-a7fdda598d13
+
