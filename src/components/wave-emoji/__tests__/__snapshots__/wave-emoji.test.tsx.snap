@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WaveEmoji component renders the provided emoji 1`] = `
+<View
+  collapsable={false}
+  jestAnimatedStyle={
+    {
+      "value": {
+        "transform": [
+          {
+            "rotate": "0deg",
+          },
+        ],
+      },
+    }
+  }
+  style={
+    {
+      "transform": [
+        {
+          "rotate": "0deg",
+        },
+      ],
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "textAlign": "left",
+        },
+        {
+          "color": "rgba(28, 27, 31, 1)",
+          "fontFamily": "System",
+          "fontWeight": "400",
+          "letterSpacing": 0,
+        },
+        {
+          "writingDirection": "ltr",
+        },
+        {
+          "fontSize": 28,
+          "lineHeight": 32,
+          "marginTop": -6,
+        },
+      ]
+    }
+  >
+    👋
+  </Text>
+</View>
+`;
