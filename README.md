@@ -1,18 +1,17 @@
-# rn-workshop
+## 🛠️ Getting Started
 
-### Setup
+### Step 1: 🚀 Initial Setup
 
-```bash
-git clone https://github.com/m0ndez/rn-workshop &&
-cd rn-workshop &&
-yarn && yarn ios
-```
+- Clone the repository: `git clone https://github.com/m0ndez/rn-workshop`
+- Navigate: `cd rn-workshop`
+- Install dependencies: `yarn`
 
-### Tests
+### Step 2: 🏃‍♂️ Running the Project
 
-```bash
-yarn test
-```
+- Development Mode (IOS): `yarn ios`
+- Development Mode (Android): `yarn android`
+- Tests: `yarn test`
+
 
 ### Preview
 
